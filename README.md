@@ -22,7 +22,7 @@
 
 5. Transferable Skills from This Project
     
-    Honestly its simple but the backup was something I will use from now on. I had never used a backup before and I think it would even be very useful for debugging when used throughout the code. This way you could keep your code nice, but have a file showing the values of items and their values changing throughout the code. Using a function to call to when editing the debug backup would also be very simple and easy to remove once completed.
+    Honestly it's simple but the backup was something I will use from now on. I had never used a backup before and I think it would even be very useful for debugging when used throughout the code. This way you could keep your code nice, but have a file showing the values of items and their values changing throughout the code. Using a function to call to when editing the debug backup would also be very simple and easy to remove once completed.
 
 
 6. How I Made the Program Maintainable, Readable, and Adaptable
